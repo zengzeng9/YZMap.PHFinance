@@ -140,7 +140,6 @@ export default {
     };
   },
   mounted() {
-    this.currentLatlng=YZ.latLng(22.111,111.123)
     this.locate();
   },
   // watch:{
@@ -245,7 +244,7 @@ export default {
       }
     },
     locate() {
-      // document.location = "js://location:";
+      document.location = "js://location:";
       this.$root.$on("locate", this.forLocation);
     },
     showVal() {
