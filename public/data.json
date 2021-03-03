@@ -1,0 +1,841 @@
+{
+  "code": 200,
+  "msg": "操作成功",
+  "data": {
+    "districtCode": "430000",
+    "districtName": "湖南省",
+    "childrenList": [
+      {
+        "districtCode": "430200",
+        "districtName": "株洲市",
+        "customerCount": 0,
+        "childrenList": [
+          {
+            "districtCode": "430202",
+            "districtName": "荷塘区",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "430223",
+            "districtName": "攸县",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "430224",
+            "districtName": "茶陵县",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "430225",
+            "districtName": "炎陵县",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "430212",
+            "districtName": "渌口区",
+            "customerCount": null,
+            "childrenList": null
+          },
+          {
+            "districtCode": "430203",
+            "districtName": "芦淞区",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "430211",
+            "districtName": "天元区",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "430204",
+            "districtName": "石峰区",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "430281",
+            "districtName": "醴陵市",
+            "customerCount": 0,
+            "childrenList": null
+          }
+        ]
+      },
+      {
+        "districtCode": "430500",
+        "districtName": "邵阳市",
+        "customerCount": 0,
+        "childrenList": [
+          {
+            "districtCode": "430524",
+            "districtName": "隆回县",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "430503",
+            "districtName": "大祥区",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "430527",
+            "districtName": "绥宁县",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "430511",
+            "districtName": "北塔区",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "430502",
+            "districtName": "双清区",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "430523",
+            "districtName": "邵阳县",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "430529",
+            "districtName": "城步苗族自治县",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "430582",
+            "districtName": "邵东市",
+            "customerCount": null,
+            "childrenList": null
+          },
+          {
+            "districtCode": "430522",
+            "districtName": "新邵县",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "430528",
+            "districtName": "新宁县",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "430581",
+            "districtName": "武冈市",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "430525",
+            "districtName": "洞口县",
+            "customerCount": 0,
+            "childrenList": null
+          }
+        ]
+      },
+      {
+        "districtCode": "431000",
+        "districtName": "郴州市",
+        "customerCount": 0,
+        "childrenList": [
+          {
+            "districtCode": "431028",
+            "districtName": "安仁县",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "431026",
+            "districtName": "汝城县",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "431023",
+            "districtName": "永兴县",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "431003",
+            "districtName": "苏仙区",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "431081",
+            "districtName": "资兴市",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "431002",
+            "districtName": "北湖区",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "431027",
+            "districtName": "桂东县",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "431025",
+            "districtName": "临武县",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "431022",
+            "districtName": "宜章县",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "431024",
+            "districtName": "嘉禾县",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "431021",
+            "districtName": "桂阳县",
+            "customerCount": 0,
+            "childrenList": null
+          }
+        ]
+      },
+      {
+        "districtCode": "431100",
+        "districtName": "永州市",
+        "customerCount": 0,
+        "childrenList": [
+          {
+            "districtCode": "431103",
+            "districtName": "冷水滩区",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "431121",
+            "districtName": "祁阳县",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "431122",
+            "districtName": "东安县",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "431102",
+            "districtName": "零陵区",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "431128",
+            "districtName": "新田县",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "431126",
+            "districtName": "宁远县",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "431123",
+            "districtName": "双牌县",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "431127",
+            "districtName": "蓝山县",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "431124",
+            "districtName": "道县",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "431125",
+            "districtName": "江永县",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "431129",
+            "districtName": "江华瑶族自治县",
+            "customerCount": 0,
+            "childrenList": null
+          }
+        ]
+      },
+      {
+        "districtCode": "430600",
+        "districtName": "岳阳市",
+        "customerCount": 0,
+        "childrenList": [
+          {
+            "districtCode": "430611",
+            "districtName": "君山区",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "430603",
+            "districtName": "云溪区",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "430623",
+            "districtName": "华容县",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "430602",
+            "districtName": "岳阳楼区",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "430681",
+            "districtName": "汨罗市",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "430624",
+            "districtName": "湘阴县",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "430682",
+            "districtName": "临湘市",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "430621",
+            "districtName": "岳阳县",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "430626",
+            "districtName": "平江县",
+            "customerCount": 0,
+            "childrenList": null
+          }
+        ]
+      },
+      {
+        "districtCode": "430900",
+        "districtName": "益阳市",
+        "customerCount": 0,
+        "childrenList": [
+          {
+            "districtCode": "430902",
+            "districtName": "资阳区",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "430922",
+            "districtName": "桃江县",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "430903",
+            "districtName": "赫山区",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "430923",
+            "districtName": "安化县",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "430981",
+            "districtName": "沅江市",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "430921",
+            "districtName": "南县",
+            "customerCount": 0,
+            "childrenList": null
+          }
+        ]
+      },
+      {
+        "districtCode": "430400",
+        "districtName": "衡阳市",
+        "customerCount": 10,
+        "childrenList": [
+          {
+            "districtCode": "430423",
+            "districtName": "衡山县",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "430424",
+            "districtName": "衡东县",
+            "customerCount": 10,
+            "childrenList": null
+          },
+          {
+            "districtCode": "430421",
+            "districtName": "衡阳县",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "430412",
+            "districtName": "南岳区",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "430481",
+            "districtName": "耒阳市",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "430406",
+            "districtName": "雁峰区",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "430405",
+            "districtName": "珠晖区",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "430407",
+            "districtName": "石鼓区",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "430422",
+            "districtName": "衡南县",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "430426",
+            "districtName": "祁东县",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "430408",
+            "districtName": "蒸湘区",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "430482",
+            "districtName": "常宁市",
+            "customerCount": 0,
+            "childrenList": null
+          }
+        ]
+      },
+      {
+        "districtCode": "431300",
+        "districtName": "娄底市",
+        "customerCount": 0,
+        "childrenList": [
+          {
+            "districtCode": "431381",
+            "districtName": "冷水江市",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "431322",
+            "districtName": "新化县",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "431382",
+            "districtName": "涟源市",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "431321",
+            "districtName": "双峰县",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "431302",
+            "districtName": "娄星区",
+            "customerCount": 0,
+            "childrenList": null
+          }
+        ]
+      },
+      {
+        "districtCode": "430700",
+        "districtName": "常德市",
+        "customerCount": 0,
+        "childrenList": [
+          {
+            "districtCode": "430726",
+            "districtName": "石门县",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "430723",
+            "districtName": "澧县",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "430781",
+            "districtName": "津市市",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "430724",
+            "districtName": "临澧县",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "430722",
+            "districtName": "汉寿县",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "430703",
+            "districtName": "鼎城区",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "430702",
+            "districtName": "武陵区",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "430725",
+            "districtName": "桃源县",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "430721",
+            "districtName": "安乡县",
+            "customerCount": 0,
+            "childrenList": null
+          }
+        ]
+      },
+      {
+        "districtCode": "430800",
+        "districtName": "张家界市",
+        "customerCount": 0,
+        "childrenList": [
+          {
+            "districtCode": "430811",
+            "districtName": "武陵源区",
+            "customerCount": null,
+            "childrenList": null
+          },
+          {
+            "districtCode": "430821",
+            "districtName": "慈利县",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "430822",
+            "districtName": "桑植县",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "430802",
+            "districtName": "永定区",
+            "customerCount": 0,
+            "childrenList": null
+          }
+        ]
+      },
+      {
+        "districtCode": "431200",
+        "districtName": "怀化市",
+        "customerCount": 0,
+        "childrenList": [
+          {
+            "districtCode": "431281",
+            "districtName": "洪江市",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "431228",
+            "districtName": "芷江侗族自治县",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "431230",
+            "districtName": "通道侗族自治县",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "431223",
+            "districtName": "辰溪县",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "431222",
+            "districtName": "沅陵县",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "431224",
+            "districtName": "溆浦县",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "431229",
+            "districtName": "靖州苗族侗族自治县",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "431225",
+            "districtName": "会同县",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "431227",
+            "districtName": "新晃侗族自治县",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "431226",
+            "districtName": "麻阳苗族自治县",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "431221",
+            "districtName": "中方县",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "431202",
+            "districtName": "鹤城区",
+            "customerCount": 0,
+            "childrenList": null
+          }
+        ]
+      },
+      {
+        "districtCode": "433100",
+        "districtName": "湘西土家族苗族自治州",
+        "customerCount": 0,
+        "childrenList": [
+          {
+            "districtCode": "433127",
+            "districtName": "永顺县",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "433125",
+            "districtName": "保靖县",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "433124",
+            "districtName": "花垣县",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "433101",
+            "districtName": "吉首市",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "433126",
+            "districtName": "古丈县",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "433122",
+            "districtName": "泸溪县",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "433130",
+            "districtName": "龙山县",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "433123",
+            "districtName": "凤凰县",
+            "customerCount": 0,
+            "childrenList": null
+          }
+        ]
+      },
+      {
+        "districtCode": "430100",
+        "districtName": "长沙市",
+        "customerCount": 3,
+        "childrenList": [
+          {
+            "districtCode": "430105",
+            "districtName": "开福区",
+            "customerCount": 3,
+            "childrenList": null
+          },
+          {
+            "districtCode": "430104",
+            "districtName": "岳麓区",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "430103",
+            "districtName": "天心区",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "430181",
+            "districtName": "浏阳市",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "430121",
+            "districtName": "长沙县",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "430112",
+            "districtName": "望城区",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "430182",
+            "districtName": "宁乡市",
+            "customerCount": null,
+            "childrenList": null
+          },
+          {
+            "districtCode": "430102",
+            "districtName": "芙蓉区",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "430111",
+            "districtName": "雨花区",
+            "customerCount": 0,
+            "childrenList": null
+          }
+        ]
+      },
+      {
+        "districtCode": "430300",
+        "districtName": "湘潭市",
+        "customerCount": 0,
+        "childrenList": [
+          {
+            "districtCode": "430302",
+            "districtName": "雨湖区",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "430304",
+            "districtName": "岳塘区",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "430382",
+            "districtName": "韶山市",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "430381",
+            "districtName": "湘乡市",
+            "customerCount": 0,
+            "childrenList": null
+          },
+          {
+            "districtCode": "430321",
+            "districtName": "湘潭县",
+            "customerCount": 0,
+            "childrenList": null
+          }
+        ]
+      }
+    ],
+    "customerCount": 26
+  }
+}
